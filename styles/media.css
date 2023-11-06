@@ -1,0 +1,65 @@
+@media (max-width:900px) {
+   
+    .header { text-align: center;
+    }  
+    #hero {
+     
+     
+       padding-left: 0px;
+       
+       margin-top: 10px; 
+   padding-bottom: 30px;
+   }
+   .content_wrapper {
+   text-align: center;
+     
+   }
+   #Илья {
+   width: 50%;
+   display: inline-block;
+
+   }
+   #title {
+   margin-left: 20px;    
+   }
+  
+   .content_wrapper2 {   
+   text-align: center;
+   } 
+   h2 {
+    width: 100%;
+    font-size: 40px;
+    font-weight: 10px;  
+      
+   }
+   #Читать_далее {
+   margin-left: 500px;
+   text-align: right;
+   }
+    div #Читать_далее2 {
+   margin-left: 500px;
+    }
+    #notification {
+       margin-left: 0px;
+       font-size: 40px;
+       margin-right: 0px;
+  width: 100%;
+   
+   
+ 
+   }
+   #form_subscription {
+    width: 100%;   
+   }
+
+ 
+
+   
+  }
+
+
+
+
+ 
+    
+
